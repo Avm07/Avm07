@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Avm07 Github Stats](https://github-readme-stats.vercel.app/api?username=Avm07&count_private=true&show_icons=true&theme=onedark)
+![Avm07 Github Stats](https://github-readme-stats.vercel.app/api?username=Avm07&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **Avm07/Avm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
